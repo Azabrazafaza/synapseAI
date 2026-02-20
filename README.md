@@ -1,6 +1,11 @@
 # SynapseAI - AI Teaching Assistant
 
+[![GitHub](https://img.shields.io/github/license/Azabrazafaza/synapseAI)](https://github.com/Azabrazafaza/synapseAI)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Azabrazafaza/synapseAI)](https://github.com/Azabrazafaza/synapseAI)
+
 Веб-приложение для преподавателей с AI-функциями проверки заданий, генерации фидбека и анализа пробелов в знаниях студентов.
+
+🔗 **Repository**: https://github.com/Azabrazafaza/synapseAI
 
 ## Технологии
 
