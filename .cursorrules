@@ -1,0 +1,22 @@
+# SynapseAI Project Rules
+
+## Code Style
+- Use TypeScript for all files
+- Use functional components with hooks
+- Prefer named exports
+- Use shadcn/ui components from components/ui
+- Use TailwindCSS for styling
+- Follow Next.js App Router conventions
+
+## File Structure
+- `/app` - Next.js pages (App Router)
+- `/components` - React components
+- `/lib` - Utilities, types, API functions
+- `/store` - Zustand stores
+- `/public` - Static assets
+
+## Important Notes
+- All API calls are mocked in lib/api.ts
+- Replace mock functions with real API calls when backend is ready
+- Logo should be placed in /public/logo.png
+- Theme is managed via Zustand store and localStorage
